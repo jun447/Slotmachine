@@ -1,0 +1,13 @@
+.machine {
+  background-color: peru;
+  border: dashed brown 2px;
+  height: 300px;
+  width: 900px;
+  margin: 50px;
+  display: flex; }
+  .machine .slot {
+    background-color: beige;
+    border: solid black 2px;
+    height: 250px;
+    width: 250px;
+    margin: 20px; }
